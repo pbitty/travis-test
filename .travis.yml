@@ -1,3 +1,7 @@
 language: generic
 
 script: true
+
+branches:
+  only:
+    - master
